@@ -13,5 +13,6 @@ main 의 webapp 폴더, 그안에 WEB-INF 그안에 views
 jsp 를 넣어야 합니다 
 
 안그러면
-
+if you do not like that about directory
 안됩니다
+it never worked i belive 
